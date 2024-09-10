@@ -1,4 +1,6 @@
-# TurSitesi
+# TurSitesi Sunum
+
+![](tursitesi.gif)
 
 ## Proje Tanıtımı
 
@@ -47,3 +49,4 @@ Bu projeye katkıda bulunmak isteyenler, kendi fork’larını oluşturabilir ve
 ## İletişim 
 Sorular ve geri bildirimler için lütfen fiartaks@gmail.com ile iletişime geçin.
 
+![](tursitesi.gif)
